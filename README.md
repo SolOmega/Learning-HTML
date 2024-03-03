@@ -1,0 +1,1 @@
+This entire file is going to be me working on my own website that is about me. I am going to be learning HTML, CSS, and JavaScript for doing this. I hope that this turns out to be really good for me and that i can add this to my resume one day.
